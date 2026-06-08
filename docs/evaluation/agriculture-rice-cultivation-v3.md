@@ -1,5 +1,40 @@
 Validating **UEEOS Master Specification v3.0** against **Rice Cultivation** is an important milestone because rice agriculture is one of the few domains that simultaneously exercises:
 
+# Prompt : Validate this UEEOS Master Specification v3.0 for Evolution from Agriculture - Rice Cultivation
+
+Rice cultivation has now become more than an agricultural validation domain.
+
+At v8.0, rice becomes a test of:
+
+```text
+Food Systems
+↓
+Water Systems
+↓
+Climate Systems
+↓
+Economic Systems
+↓
+Cultural Systems
+↓
+Civilization Systems
+↓
+Planetary Systems
+↓
+Species-Level Systems
+```
+
+This is the first UEEOS version capable of asking:
+
+```text
+Can humanity sustainably cultivate rice
+for the next 1,000 years while preserving
+planetary health and human flourishing?
+```
+
+---
+
+
 * Physics
 * Biology
 * Ecology
