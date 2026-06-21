@@ -35,7 +35,9 @@ program as an open-ended (progressive) research programme is in
 [`eternal-research-program-validation.md`](./eternal-research-program-validation.md).
 The deepest framing — a universal substrate-independent language of intelligence —
 is mapped (as a conjecture, not a commitment) in
-[`scope-4-frontier.md`](./scope-4-frontier.md).
+[`scope-4-frontier.md`](./scope-4-frontier.md). A sibling framework (UTI-ERP) that
+independently asks the same question is related, with a fusion path, in
+[`related-work-uti-erp.md`](./related-work-uti-erp.md).
 
 ## Relationship to `docs/evaluation/`
 
