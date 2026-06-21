@@ -66,6 +66,50 @@ Plus a focused lineage string:
 Appraise empirical papers for reliability reporting, construct validity, sampling,
 and falsifiability. Flag conceptual-only models distinctly.
 
+## 2A. Sources & tools (where to search)
+
+### Core academic databases (run the formal search here)
+| Database | Why for this topic | Access |
+|----------|--------------------|--------|
+| **Scopus** | Broadest coverage + citation analysis; primary index | Institutional |
+| **Web of Science** | Curated; strong citation chaining | Institutional |
+| **AIS eLibrary (AISeL)** | **Critical** — IS digital/data/analytics maturity models cluster here | Mostly free |
+| **IEEE Xplore** | CMMI / capability-maturity & engineering | Institutional |
+| **ACM Digital Library** | Software / process maturity | Institutional |
+| **PubMed** | Clinical maturity / learning-health-system | Free |
+| **Business Source / ABI-Inform (ProQuest)** | Management, dynamic capabilities | Institutional |
+
+### Open / free indexes (no institution needed)
+- **OpenAlex**, **Semantic Scholar** — free APIs for reproducible, scriptable search/extraction.
+- **Lens.org** — scholarly + patents (tech-evolution angle).
+- **Google Scholar** — recall/snowballing only (not reproducible enough to be primary).
+- **CORE.ac.uk** — open-access full texts.
+
+### Citation-chaining & gap-spotting (the gap usually surfaces here)
+- **Connected Papers** — visual field map around a seed; reveals empty space.
+- **Research Rabbit** / **Litmaps** — forward/backward citation discovery & lineage (CMMI → DMM → digital maturity).
+- **Inciteful** / **Citation Gecko** — citation-network gap finding.
+
+### AI-assisted (triage only — never replaces human screening)
+- **Elicit** (extraction tables), **Scite.ai** (supported vs. contested claims — useful for "is anyone predictive?"), **Consensus** (quick orientation).
+- ⚠️ These hallucinate/miss; included-paper decisions and the gap claim must be human-verified.
+
+### Registration & management
+- **Register on OSF before screening** (PROSPERO only if a health angle) — this is what makes the gap claim credible vs. post-hoc.
+- **Rayyan** (two-reviewer blind screening + κ), **Zotero** (references/dedup), **Covidence** if available.
+
+### Recommended starting sequence
+1. Register protocol on **OSF**.
+2. **Seed scan** (~1 day): CMMI/DMM seeds into **Connected Papers** + **Research Rabbit** to see the lineage and where it thins.
+3. Formal search in **Scopus + WoS + AISeL + IEEE + PubMed** → export to **Zotero/Rayyan** → dedup.
+4. Two-reviewer screen in **Rayyan** (record κ).
+5. Extract with the §2.5 sheet (Elicit-assisted, human-verified).
+6. Plot on the §3 2×2 matrix; show the bottom-right cell is empty → the gap.
+
+> Highest-value first move for this specific gap: **AISeL + Scopus** for the corpus,
+> then **Connected Papers** to visually confirm no cluster sits in the
+> "cross-domain + validated + predictive" region.
+
 ## 3. Synthesis & the positioning argument
 
 Map every included model on two axes:
