@@ -32,6 +32,12 @@ This is the first **provable brick** of the vision: it contributes (1) a shared
 *measurement instrument* for adaptive capability, and (2) empirical evidence for
 *invariance* — the hardest, most falsifiable sub-claim inside the grand vision.
 
+> **Naming convention.** The thesis is titled *A Domain-Invariant Maturity Model of
+> Adaptive Capability* — **"maturity," not "evolution,"** because it validates a
+> measurement scale, not an evolutionary mechanism (and "Evolution" is the ladder's
+> top *level*, L10). The word **"Evolution" is reserved for the programme / brand
+> (Universal Evolution Engine, scope 2–4)** — never the scope-1 thesis title.
+
 ## Why they must stay separate
 
 A PhD is assessed by examiners who must be satisfied the claim is **achieved** and

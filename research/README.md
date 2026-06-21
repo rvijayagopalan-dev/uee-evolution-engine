@@ -1,4 +1,4 @@
-# Research — Domain-Invariant Maturity Engine (PhD Track)
+# Research — Domain-Invariant Maturity Model of Adaptive Capability (PhD Track)
 
 This folder houses the **doctoral research program** built on the grounded core of
 the UEEOS Rice Cultivation evaluation. Where [`docs/evaluation/`](../docs/evaluation/)

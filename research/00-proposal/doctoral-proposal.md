@@ -1,7 +1,7 @@
 # Doctoral Research Proposal
 
-**Working title:** *A Domain-Invariant Maturity Meta-Model for Adaptive Systems:
-Development, Cross-Domain Transfer, and Predictive Validity*
+**Working title:** *A Domain-Invariant Maturity Model of Adaptive Capability:
+Cross-Domain Transfer and Predictive Validity*
 
 **Candidate:** _[name]_ · **Proposed supervisor:** _[name]_ · **Date:** _[date]_
 

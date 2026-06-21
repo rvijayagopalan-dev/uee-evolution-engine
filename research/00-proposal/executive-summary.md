@@ -1,7 +1,7 @@
 # Executive Summary & Presentation — PhD Research Program
 
-**Working title:** *A Domain-Invariant Maturity Meta-Model for Adaptive Systems:
-Development, Cross-Domain Transfer, and Predictive Validity*
+**Working title:** *A Domain-Invariant Maturity Model of Adaptive Capability:
+Cross-Domain Transfer and Predictive Validity*
 
 *One-page summary for supervisors, committees, and stakeholders, followed by a
 slide-by-slide presentation outline.*

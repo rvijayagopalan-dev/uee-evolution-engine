@@ -10,7 +10,7 @@ follows for plain viewers.*
 
 ```mermaid
 mindmap
-  root((Domain-Invariant Maturity Engine for Adaptive Systems))
+  root((Domain-Invariant Maturity Model of Adaptive Capability))
     Vision and Scope
       Scope 1 PhD provable core
       Scope 2 Program ladder plus invariant
@@ -101,7 +101,7 @@ flowchart LR
 
 ## 4. Text outline (plain-viewer fallback)
 
-- **PhD Program — Domain-Invariant Maturity Engine for Adaptive Systems**
+- **PhD Program — Domain-Invariant Maturity Model of Adaptive Capability**
   - **Vision & Scope** — scope 1 (PhD) → 2 (program) → 3 (vision) → 4 (frontier)
   - **Thesis Core**
     - Hard core: adaptive capability is measurable, domain-invariant, predictive
