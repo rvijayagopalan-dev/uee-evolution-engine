@@ -30,7 +30,9 @@ The plan and checklist live in [`phd-roadmap.md`](./phd-roadmap.md). Longer-hori
 candidate directions (toward a general theory of adaptive systems) are in
 [`research-horizons.md`](./research-horizons.md). The governing scope document —
 how the long-horizon vision relates to the falsifiable thesis — is
-[`vision-and-scope.md`](./vision-and-scope.md).
+[`vision-and-scope.md`](./vision-and-scope.md). A Lakatosian validation of the
+program as an open-ended (progressive) research programme is in
+[`eternal-research-program-validation.md`](./eternal-research-program-validation.md).
 
 ## Relationship to `docs/evaluation/`
 
