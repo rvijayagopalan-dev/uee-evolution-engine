@@ -15,6 +15,9 @@ Commercialization track for the UEE research — how the falsifiable PhD core
   ([`../image/Enterprise_Strategic_Cortex.png`](../image/Enterprise_Strategic_Cortex.png))
   against the PhD: module→maturity-level→PhD-backing map, the defensible MVP kernel,
   the autonomy-vs-augmentation fix, and the PhD↔product symbiosis.
+- [`cortex-research-coverage-map.md`](./cortex-research-coverage-map.md) — routes every
+  module/layer NOT covered by the PhD to its research area, with maturity flags and a
+  three-bucket synthesis (ship / integrate / research).
 
 ## How it relates
 
