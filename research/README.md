@@ -41,7 +41,8 @@ independently asks the same question is related, with a fusion path, in
 space (the "who's active now" companion to the prior-work bibliography) are in
 [`active-research-landscape.md`](./active-research-landscape.md). A single-page
 visual of the whole program (mind map + dependency map + document map) is in
-[`concept-map.md`](./concept-map.md).
+[`concept-map.md`](./concept-map.md). The topics to master with core literature,
+tiered by priority, are in [`mastery-curriculum.md`](./mastery-curriculum.md).
 
 ## Relationship to `docs/evaluation/`
 
