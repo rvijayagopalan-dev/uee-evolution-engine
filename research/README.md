@@ -33,6 +33,9 @@ how the long-horizon vision relates to the falsifiable thesis — is
 [`vision-and-scope.md`](./vision-and-scope.md). A Lakatosian validation of the
 program as an open-ended (progressive) research programme is in
 [`eternal-research-program-validation.md`](./eternal-research-program-validation.md).
+The deepest framing — a universal substrate-independent language of intelligence —
+is mapped (as a conjecture, not a commitment) in
+[`scope-4-frontier.md`](./scope-4-frontier.md).
 
 ## Relationship to `docs/evaluation/`
 
