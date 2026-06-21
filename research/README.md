@@ -26,7 +26,9 @@ publications, and thesis.
 | [`06-publications/`](./06-publications/) | Paper drafts and submission tracking |
 | [`07-thesis/`](./07-thesis/) | The dissertation chapters |
 
-The plan and checklist live in [`phd-roadmap.md`](./phd-roadmap.md).
+The plan and checklist live in [`phd-roadmap.md`](./phd-roadmap.md). Longer-horizon
+candidate directions (toward a general theory of adaptive systems) are in
+[`research-horizons.md`](./research-horizons.md).
 
 ## Relationship to `docs/evaluation/`
 
