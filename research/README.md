@@ -28,7 +28,9 @@ publications, and thesis.
 
 The plan and checklist live in [`phd-roadmap.md`](./phd-roadmap.md). Longer-horizon
 candidate directions (toward a general theory of adaptive systems) are in
-[`research-horizons.md`](./research-horizons.md).
+[`research-horizons.md`](./research-horizons.md). The governing scope document —
+how the long-horizon vision relates to the falsifiable thesis — is
+[`vision-and-scope.md`](./vision-and-scope.md).
 
 ## Relationship to `docs/evaluation/`
 
