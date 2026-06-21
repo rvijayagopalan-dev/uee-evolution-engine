@@ -13,6 +13,10 @@ into a 5–10 page doctoral proposal (gap, questions, method, feasibility, contr
 - [`definition-of-done.md`](./definition-of-done.md) — the completion contract: what
   finishes the thesis (four studies resolved, instrument validated, viva passed),
   the minimum-viable-thesis fallback, and the explicit NOT-completion conditions.
+- [`executive-summary.md`](./executive-summary.md) — one-page summary + ~12-slide
+  presentation outline for supervisors/committees/stakeholders.
+- [`statement-of-purpose.md`](./statement-of-purpose.md) — SOP draft (practitioner →
+  falsifiable PhD narrative) for tailoring per application.
 
 _Status: proposal drafted (v0.1); fill bracketed fields + references + tailor to
 program — see [`../phd-roadmap.md`](../phd-roadmap.md) Phase 0._
