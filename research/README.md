@@ -37,7 +37,9 @@ The deepest framing — a universal substrate-independent language of intelligen
 is mapped (as a conjecture, not a commitment) in
 [`scope-4-frontier.md`](./scope-4-frontier.md). A sibling framework (UTI-ERP) that
 independently asks the same question is related, with a fusion path, in
-[`related-work-uti-erp.md`](./related-work-uti-erp.md).
+[`related-work-uti-erp.md`](./related-work-uti-erp.md). Active labs/efforts in this
+space (the "who's active now" companion to the prior-work bibliography) are in
+[`active-research-landscape.md`](./active-research-landscape.md).
 
 ## Relationship to `docs/evaluation/`
 
