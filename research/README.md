@@ -39,7 +39,9 @@ is mapped (as a conjecture, not a commitment) in
 independently asks the same question is related, with a fusion path, in
 [`related-work-uti-erp.md`](./related-work-uti-erp.md). Active labs/efforts in this
 space (the "who's active now" companion to the prior-work bibliography) are in
-[`active-research-landscape.md`](./active-research-landscape.md).
+[`active-research-landscape.md`](./active-research-landscape.md). A single-page
+visual of the whole program (mind map + dependency map + document map) is in
+[`concept-map.md`](./concept-map.md).
 
 ## Relationship to `docs/evaluation/`
 
