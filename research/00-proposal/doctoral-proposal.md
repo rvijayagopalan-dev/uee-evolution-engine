@@ -47,13 +47,23 @@ model already occupies it, the project pivots — a decision deliberately front-
 
 ## 4. Research questions
 
-> Does a single, fixed maturity-engine structure describe — and predict adaptation
-> outcomes in — multiple unrelated domains **without per-domain modification**?
+> **RQ1 (primary).** Can adaptive capability be represented as a domain-invariant
+> hierarchical construct that predicts adaptive outcomes across multiple domains —
+> **without per-domain modification**?
 
-- **RQ1** What maturity models exist and what is their scope, validation, and predictive use?
-- **RQ2** Can the 11-level structure be reliably and validly measured?
-- **RQ3 (H1)** Does the structure transfer across ≥3 unrelated domains unchanged?
-- **RQ4 (H2)** Does maturity predict adaptation outcomes better than a domain baseline?
+Decomposed into four supporting questions, each a falsifiable wall of the primary
+claim (canonical statement: [`research-questions.md`](./research-questions.md);
+motivating gaps: [`research-gaps.md`](./research-gaps.md)):
+
+- **RQ2** Can adaptive capability be measured reliably and validly? *(P1, P4)*
+- **RQ3 (H1)** Does the structure remain invariant across ≥3 unrelated domains? *(P2)*
+- **RQ4 (H2)** Does adaptive capability predict adaptation outcomes better than a
+  domain-specific baseline? *(P3)*
+- **RQ5** Does it provide explanatory power beyond existing maturity (CMMI) and
+  dynamic-capability frameworks? *(P5)*
+
+RQ1 holds **iff** RQ2 ∧ RQ3 ∧ RQ4 ∧ RQ5 hold. The systematic review (Study 1)
+establishes the gap these questions target.
 
 ## 5. Theoretical framework (summary)
 
@@ -82,10 +92,10 @@ Mixed methods, pre-registered, PRISMA-based review:
 
 | Study | Question | Method | Output |
 |------|----------|--------|--------|
-| S1 | Gap & framework (RQ1) | Systematic review + synthesis | Review paper |
+| S1 | Gap & framework | Systematic review + synthesis | Review paper |
 | S2 | Measurable & reliable? (RQ2) | Rubric + survey; κ; construct validity | Methods paper *(pilot done)* |
-| S3 | Transfer? (RQ3/H1) | Score ≥3 domains, no structural change | Empirical paper |
-| S4 | Predict? (RQ4/H2) | Maturity vs. outcome vs. baseline | Empirical paper |
+| S3 | Invariant? (RQ3/H1) | Score ≥3 domains, no structural change | Empirical paper |
+| S4 | Predict & distinct? (RQ4/H2, RQ5) | Maturity vs. outcome vs. baseline; incremental validity | Empirical paper |
 
 ## 8. Expected contribution
 

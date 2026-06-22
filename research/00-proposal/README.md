@@ -10,6 +10,12 @@ into a 5–10 page doctoral proposal (gap, questions, method, feasibility, contr
 - [`doctoral-proposal.md`](./doctoral-proposal.md) — synthesis proposal (abstract,
   gap, RQs, theory, method, study plan, contribution, feasibility, timeline, ethics)
   drawing together all repo drafts. The document to send a prospective supervisor.
+- [`research-questions.md`](./research-questions.md) — canonical RQ list: primary RQ1
+  decomposed into supporting RQ2–RQ5, each mapped to a proposition and study. The
+  reference of record for the questions.
+- [`research-gaps.md`](./research-gaps.md) — the literature gap behind each question
+  (the empty "cross-domain + validated + predictive" cell), paired one-to-one with
+  the RQs.
 - [`definition-of-done.md`](./definition-of-done.md) — the completion contract: what
   finishes the thesis (four studies resolved, instrument validated, viva passed),
   the minimum-viable-thesis fallback, and the explicit NOT-completion conditions.

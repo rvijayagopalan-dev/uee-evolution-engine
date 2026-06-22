@@ -91,6 +91,13 @@ State these explicitly — a theory without boundaries is unfalsifiable:
   regression / AUC vs. baseline, pre-registered.
 - **P4 (Construct distinctness).** The 11 levels are not collapsible to fewer latent
   factors than theorized. *Test:* factor analysis / dimensionality assessment.
+- **P5 (Incremental validity — RQ5).** Maturity explains adaptation-outcome variance
+  *beyond* what CMMI and dynamic-capability measures capture. *Test:* hierarchical
+  regression — added R² / ΔAUC over the rival predictors, pre-registered.
+
+Propositions map to the research questions in
+[`../00-proposal/research-questions.md`](../00-proposal/research-questions.md):
+P1/P4→RQ2, P2→RQ3, P3→RQ4, P5→RQ5; RQ1 is the conjunction.
 
 ## 7. Known theoretical risks (address head-on)
 
